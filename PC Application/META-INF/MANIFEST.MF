@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Name: ChatMIDlet
+MIDlet-Permissions: javax.microedition.io.Connector.bluetooth.server, 
+ javax.microedition.io.Connector.bluetooth.client
+MIDlet-Vendor: Forum Nokia
+MIDlet-1: ChatApplication, , example.chat.ChatApplication
+MIDlet-Version: 1.0.7
+MicroEdition-Profile: MIDP-2.0
+
